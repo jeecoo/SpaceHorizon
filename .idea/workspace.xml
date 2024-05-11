@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0003b694-3dfc-4e23-b036-188fa65adb58" name="Changes" comment="5/11/2024">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_11_2024_3_29_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_11_2024_3_29_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/game/Entity/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/game/Entity/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/game/MySQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/game/MySQLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/game/Entity/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/game/Entity/Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/game/Entity/EnemyT1Bomber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/game/Entity/EnemyT1Bomber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/game/Entity/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/game/Entity/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/game/GameStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/game/GameStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/game/MySQLConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/game/MySQLConnection.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +54,22 @@
     }
   ]
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Derlashwarma/TiraTira.git&quot;,
-    &quot;accountId&quot;: &quot;f7c8a755-91d1-4a56-91d7-6c43920a837f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jeecoo/SpaceHorizon.git",
+    "accountId": "f7c8a755-91d1-4a56-91d7-6c43920a837f"
   },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
     },
-    &quot;owner&quot;: &quot;Derlashwarma&quot;,
-    &quot;repository&quot;: &quot;TiraTira&quot;
+    "owner": "Derlashwarma",
+    "repository": "TiraTira"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -83,10 +90,10 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "#4 on main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/Jeecoo/IdeaProjects/TiraTira/src/main/java/com/example/game",
-    "last_opened_file_path": "C:/Users/Jeecoo/IdeaProjects/TiraTira/src/main/resources/com/example/images",
+    "last_opened_file_path": "C:/Users/Jeecoo/IdeaProjects/SpaceHorizon",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,7 +101,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -167,6 +174,7 @@
       <workItem from="1715327123781" duration="8172000" />
       <workItem from="1715339163153" duration="7959000" />
       <workItem from="1715347169690" duration="18249000" />
+      <workItem from="1715413566532" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="main menu and game over">
       <option name="closed" value="true" />

@@ -6,6 +6,10 @@ import com.example.game.Game;
 import javafx.application.Platform;
 import javafx.scene.paint.Color;
 
+import javax.xml.datatype.Duration;
+
+import static java.lang.Thread.sleep;
+
 public class Enemy extends Entity implements Runnable{
     private final double BOTTOM_LIMIT = 760;
     private long speed;
@@ -34,7 +38,7 @@ public class Enemy extends Entity implements Runnable{
                 enemyBullet.start();
             }
             try {
-                Thread.sleep(speed);
+                sleep(speed);
                 counter++;
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
